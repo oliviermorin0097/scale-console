@@ -6,16 +6,16 @@ Desktop application of the AAPM Working Group SCALE. It runs the SCALE tools as 
 
 More: [medomics.ai · SCALE Console](https://www.medomics.ai/scale-console.html)
 
-## Download (version 0.4.4)
+## Download (version 0.4.5)
 
 | System | File | Size |
 |---|---|---|
-| Windows 10/11, x64 | [SCALE-Console-0.4.4-win-x64-setup.exe](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.4/SCALE-Console-0.4.4-win-x64-setup.exe) | 219 MB |
-| macOS, Apple silicon | [SCALE-Console-0.4.4-mac-arm64.zip](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.4/SCALE-Console-0.4.4-mac-arm64.zip) | 229 MB |
-| macOS, Intel | [SCALE-Console-0.4.4-mac-x64.zip](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.4/SCALE-Console-0.4.4-mac-x64.zip) | 235 MB |
-| Linux, x86_64 | [SCALE-Console-0.4.4-linux-x86_64.AppImage](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.4/SCALE-Console-0.4.4-linux-x86_64.AppImage) | 224 MB |
+| Windows 10/11, x64 | [SCALE-Console-0.4.5-win-x64-setup.exe](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.5/SCALE-Console-0.4.5-win-x64-setup.exe) | 219 MB |
+| macOS, Apple silicon | [SCALE-Console-0.4.5-mac-arm64.zip](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.5/SCALE-Console-0.4.5-mac-arm64.zip) | 229 MB |
+| macOS, Intel | [SCALE-Console-0.4.5-mac-x64.zip](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.5/SCALE-Console-0.4.5-mac-x64.zip) | 235 MB |
+| Linux, x86_64 | [SCALE-Console-0.4.5-linux-x86_64.AppImage](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.5/SCALE-Console-0.4.5-linux-x86_64.AppImage) | 224 MB |
 
-SHA-256 checksums: [SHA256SUMS.txt](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.4/SHA256SUMS.txt). Setup steps: [GETTING_STARTED.md](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.4/GETTING_STARTED.md).
+SHA-256 checksums: [SHA256SUMS.txt](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.5/SHA256SUMS.txt). Setup steps: [GETTING_STARTED.md](https://github.com/oliviermorin0097/scale-console/releases/download/v0.4.5/GETTING_STARTED.md).
 
 ## What you need
 - Docker Desktop 24 or newer (on Windows with WSL 2); no Docker account.
