@@ -16,6 +16,7 @@ More: [medomics.ai · SCALE Console](https://www.medomics.ai/scale-console.html)
 SHA-256 checksums: [SHA256SUMS.txt](https://github.com/oliviermorin0097/scale-console/releases/download/v0.5.0/SHA256SUMS.txt). Setup steps: [GETTING_STARTED.md](https://github.com/oliviermorin0097/scale-console/releases/download/v0.5.0/GETTING_STARTED.md). Test patients: [SCALE test data (2 fake patients)](https://github.com/oliviermorin0097/scale-console/releases/tag/testdata-v1).
 
 ## What you need
+- Linux (Ubuntu 22.04 or newer): run `sudo apt install libfuse2` once before the first start of the AppImage.
 - Windows 10/11 or Linux, with Docker Desktop or Docker Engine 24 or newer (on Windows with WSL 2); no Docker account.
 - An NVIDIA GPU (8 GB or more) for step 4 Map to MNI. Without one, the other steps run and the de-identified release is sent to UCSF for step 4.
 - Internet once: on first start the Console downloads its SCALE tools (about 5.5 GB with an NVIDIA GPU, about 0.5 GB without one).
