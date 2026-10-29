@@ -10,9 +10,9 @@ More: [medomics.ai · SCALE Console](https://www.medomics.ai/scale-console.html)
 
 | System | File | Size |
 |---|---|---|
-| Windows 10/11, x64 | [SCALE-Console-0.5.2-win-x64-setup.exe](https://github.com/oliviermorin0097/scale-console/releases/download/v0.5.2/SCALE-Console-0.5.2-win-x64-setup.exe) | 128 MB |
+| Windows 10/11, x64 | [SCALE-Console-0.5.2-win-x64-setup.exe](https://github.com/oliviermorin0097/scale-console/releases/download/v0.5.2/SCALE-Console-0.5.2-win-x64-setup.exe) | 127 MB |
 | **Ubuntu / Debian** (recommended on Linux: double-click, Install) | [SCALE-Console-0.5.2-linux-amd64.deb](https://github.com/oliviermorin0097/scale-console/releases/download/v0.5.2/SCALE-Console-0.5.2-linux-amd64.deb) | 107 MB |
-| Other Linux | [SCALE-Console-0.5.2-linux-x86_64.AppImage](https://github.com/oliviermorin0097/scale-console/releases/download/v0.5.2/SCALE-Console-0.5.2-linux-x86_64.AppImage) | 133 MB |
+| Other Linux | [SCALE-Console-0.5.2-linux-x86_64.AppImage](https://github.com/oliviermorin0097/scale-console/releases/download/v0.5.2/SCALE-Console-0.5.2-linux-x86_64.AppImage) | 132 MB |
 
 SHA-256 checksums: [SHA256SUMS.txt](https://github.com/oliviermorin0097/scale-console/releases/download/v0.5.2/SHA256SUMS.txt). Setup steps: [GETTING_STARTED.md](https://github.com/oliviermorin0097/scale-console/releases/download/v0.5.2/GETTING_STARTED.md). Test patients: [SCALE test data (2 fake patients)](https://github.com/oliviermorin0097/scale-console/releases/tag/testdata-v1).
 
